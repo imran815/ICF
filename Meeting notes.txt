@@ -1,0 +1,19 @@
+
+Yummy template:
+-about us and community history
+... go into about us section
+-between About and Events
+need to put "New mosque"
+... add image from brochure
+... get sections LAND PURCHASE & PLAN APPROVAL & NEW BUILDING LAYOUT
+
+-after above menu, add donations
+
+-#hero to #home
+-
+
+
+Revealed template:
+home > same as yummy home
+about > fine
+service > 
