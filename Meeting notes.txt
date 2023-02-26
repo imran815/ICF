@@ -1,4 +1,7 @@
 
+
+Finished below points on 2/25/2023:
+-----------------------------------
 Yummy template:
 DONE -about us and community history	... go into about us section
 
@@ -10,7 +13,7 @@ need to put "New mosque"
 -after above menu, add donations
 
 DONE-#hero to #home
--
+----------------------- x -----------------------
 
 
 Revealed template:
