@@ -1,10 +1,11 @@
 
 Yummy template:
 DONE -about us and community history	... go into about us section
--between About and Events
+
+DONE-between About and Events
 need to put "New mosque"
 ... add image from brochure
-... get sections LAND PURCHASE & PLAN APPROVAL & NEW BUILDING LAYOUT
+... get sections LAND PURCHASE & PLAN APPROVAL and NEW BUILDING LAYOUT
 
 -after above menu, add donations
 
