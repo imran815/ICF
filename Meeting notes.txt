@@ -1,7 +1,6 @@
 
 Yummy template:
--about us and community history
-... go into about us section
+DONE -about us and community history	... go into about us section
 -between About and Events
 need to put "New mosque"
 ... add image from brochure
@@ -9,7 +8,7 @@ need to put "New mosque"
 
 -after above menu, add donations
 
--#hero to #home
+DONE-#hero to #home
 -
 
 
